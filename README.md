@@ -14,7 +14,7 @@ This course require student too use the vs code to develop our project and push 
     git branch -M main
     git remote add origin https://github.com/4107029007/0517.git
     git push -u origin main
-```text
+```
 
     git config --global user.name "John Doe"
     git config --global user.email johndoe@example.com
