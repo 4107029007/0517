@@ -19,3 +19,4 @@ This course require student too use the vs code to develop our project and push 
     git config --global user.email johndoe@example.com
   4. 安裝 python extension module in vs code (package controller)
   5. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+  6. use flask_ngrok to get a url that can import local py on the internet
