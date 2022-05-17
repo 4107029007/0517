@@ -7,13 +7,14 @@ This course require student too use the vs code to develop our project and push 
   2. New a repository on the github
   3.  Open VS code then git clone this repository 
 
+```text
     git init
     git add README.md
     git commit -m "first commit"
     git branch -M main
     git remote add origin https://github.com/4107029007/0517.git
     git push -u origin main
-
+```text
 
     git config --global user.name "John Doe"
     git config --global user.email johndoe@example.com
