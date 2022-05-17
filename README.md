@@ -1,4 +1,4 @@
-# 0517
+# 0517 v2
 AIOT: \
 <b>Project Goal</b>
  We are going to develop an AIOT web using Flask. 
